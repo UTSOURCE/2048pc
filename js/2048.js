@@ -1,6 +1,6 @@
 /**
  * Created by Administrator on 2017/4/8.
- *我要日狗第二次改
+ *我要文明点
  */
 var game={
     data:null,//TODO 保存R和C的的二位数组
