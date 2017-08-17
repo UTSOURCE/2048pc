@@ -1,5 +1,6 @@
 /**
  * Created by Administrator on 2017/4/8.
+ *老子日狗了
  */
 var game={
     data:null,//TODO 保存R和C的的二位数组
